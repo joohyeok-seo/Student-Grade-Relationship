@@ -18,7 +18,11 @@ The main objective of this project is to explore and understand the relationship
 
 ## Data Description
 - **Source**: The dataset includes information on students' grades and personal backgrounds, such as relationship status and family relationship quality.
-- **Variables**: Important variables include G3 (final grades), gender, relationship status, and family relationship quality.
+- **Variables**: Key variables include:
+  - `G3`: Final grades.
+  - `Gender`: Student gender.
+  - `Relationship status`: Whether the student is in a romantic relationship.
+  - `Family relationship quality`: A rating of family relationship quality.
 
 ## Usage Instructions
 To replicate this analysis:
@@ -31,6 +35,7 @@ To replicate this analysis:
 
 ## Files
 - **Final Report.pdf**: Detailed report with analysis results and visualizations.
+- **Appendix.pdf**: Supplementary data and additional analysis details.
 
 ## Author
 Joohyeok Seo
